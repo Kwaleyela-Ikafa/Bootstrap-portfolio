@@ -14,3 +14,40 @@
  .h1-color {
     color: #f55800;
  }
+
+ .btn-orange {
+    background-color: #f55800;
+    color: #fff;
+    padding-top: 10px;
+    height: 3rem;
+ }
+
+ .card1 {
+    background-image: url(./images/Img-Placeholder-grid1\(1\).png);
+  }
+
+  .card2 {
+    background-image: url(./images/Img-Placeholder-grid1\(2\).png);
+  }
+
+  .card3 {
+    background-image: url(./images/Img-Placeholder-grid1\(3\).png);
+  }
+
+  .card4 {
+    background-image: url(./images/Img-Placeholder\(4\).png);
+  }
+
+  .card {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 435px;
+    width: 369px;
+  }
+
+  .bg-project {
+    background-color: #f55800;
+    margin-left: -0.7rem;
+    margin-right: -0.85rem;
+  }
+  
