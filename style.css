@@ -1,0 +1,14 @@
+.navbar {
+    background: #3e3c3c;
+}
+
+ section.container-fluid {
+    background-image: url(./images/Illustration-header.png);
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+ }
+
+ .h1-color {
+    color: #f55800;
+ }
