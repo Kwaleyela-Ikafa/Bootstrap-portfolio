@@ -1,0 +1,97 @@
+.navbar {
+    background: #3e3c3c;
+}
+
+ section.head {
+    background-image: url(./images/Illustration-header.png);
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: #1c1a19;
+ }
+
+ .h1-color {
+    color: #f55800;
+ }
+
+ .btn-orange {
+    background-color: #f55800;
+    color: #fff;
+    padding-top: 10px;
+    height: 3rem;
+ }
+
+ .card1 {
+    background-image: url(./images/Img-Placeholder-grid1\(1\).png);
+  }
+
+  .card2 {
+    background-image: url(./images/Img-Placeholder-grid1\(2\).png);
+  }
+
+  .card3 {
+    background-image: url(./images/Img-Placeholder-grid1\(3\).png);
+  }
+
+  .card4 {
+    background-image: url(./images/Img-Placeholder\(4\).png);
+  }
+
+  .card {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 435px;
+    width: 369px;
+  }
+
+  .bg-project {
+    background-color: #f55800;
+    margin-left: -0.7rem;
+    margin-right: -0.85rem;
+  }
+  
+
+section .about-me {
+  background-image: url(./images/Frame2.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.about-btn {
+  background: #F55800;
+}
+
+.about-hr {
+  color: #fff;
+  width: 1156px;
+  height: 17px;
+}
+
+@media (max-width: 576px) { 
+
+  section .about-me {
+    background-image: url(./images/Frame.png);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+
+  section.head {
+    background-image: url(./images/Illustration.png);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    height: 100vh;
+    background-color: #1c1a19;
+  }
+ }
+
+.contact-input {
+  outline: none;
+}
+
+.btn-touch {
+  background: #F55800;
+}
