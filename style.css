@@ -69,10 +69,6 @@ section .about-me {
   height: 17px;
 }
 
-.skills-section {
-  height: 100vh;
-}
-
 @media (max-width: 576px) { 
 
   section .about-me {
@@ -91,3 +87,11 @@ section .about-me {
     background-color: #1c1a19;
   }
  }
+
+.contact-input {
+  outline: none;
+}
+
+.btn-touch {
+  background: #F55800;
+}
